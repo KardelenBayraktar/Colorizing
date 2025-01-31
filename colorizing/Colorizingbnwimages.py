@@ -6,7 +6,7 @@ import os
 
 
 """
-Download the model files (you can download from my README, There are links.):
+Download the model files (you can download from my README):
    1. colorization_deploy_v2.prototxt
    2. pts_in_hull.npy
    3. colorization_release_v2.caffemodel
